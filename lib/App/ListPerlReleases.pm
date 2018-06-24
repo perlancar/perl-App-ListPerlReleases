@@ -63,13 +63,17 @@ See the included script L<list-perl-releases>.
 
 =head1 DESCRIPTION
 
-This distribution offers L<list-perl-releases>, a CLI front-end for L<
+This distribution offers L<list-perl-releases>, a CLI front-end for
+L<CPAN::Perl::Releases>.
 
 
 =head1 SEE ALSO
 
-L<Debian::Releases>
+L<CPAN::Perl::Releases>
 
-L<Ubuntu::Releases>
+L<App::perlbrew> also offers "perlbrew available" or "perlbrew available --all"
+to list Perl releases.
+
+L<https://www.cpan.org>
 
 =cut
