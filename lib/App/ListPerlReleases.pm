@@ -1,6 +1,8 @@
 package App::ListPerlReleases;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use 5.010001;
@@ -8,6 +10,8 @@ use strict;
 use warnings;
 
 use Perinci::Sub::Gen::AccessTable qw(gen_read_table_func);
+# undetected
+use Sah::Schema::filename;
 
 use Exporter;
 our @ISA = qw(Exporter);
