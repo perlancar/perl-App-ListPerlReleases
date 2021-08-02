@@ -2,3 +2,4 @@ App-ListPerlReleases-*
 .build
 *~
 nytprof*
+.DS_Store
